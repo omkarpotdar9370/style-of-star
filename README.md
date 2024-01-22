@@ -1,2 +1,2 @@
 # style-of-star
-hi
+my first project
